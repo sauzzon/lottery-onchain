@@ -311,7 +311,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>LW3Punks</title>
+        <title>Lottery</title>
         <meta name="description" content="LW3Punks-Dapp" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
